@@ -1,21 +1,60 @@
-# Aplikasi QurbanQu: Pembelian Hewan Qurban Secara Online
-
-**QurbanQu** adalah aplikasi mobile yang dikembangkan untuk memudahkan masyarakat dalam membeli hewan qurban secara online. Dengan aplikasi ini, pengguna dapat melihat daftar hewan qurban, melakukan pemesanan, dan memilih metode pembayaran.
+# 🐄 QurbanQu – Aplikasi Pembelian Hewan Qurban Secara Online
+QurbanQu adalah aplikasi mobile berbasis Flutter yang dirancang untuk memudahkan masyarakat dalam membeli dan menyalurkan hewan qurban secara online. Mulai dari pemilihan hewan hingga pembayaran dan pelacakan status, semua bisa dilakukan dalam satu aplikasi.
 
 ## 📝 Deskripsi Aplikasi
+QurbanQu hadir sebagai solusi digital untuk pelaksanaan ibadah qurban dengan berbagai fitur unggulan, seperti:
 
-Aplikasi QurbanQu dirancang untuk:
+🔍 Melihat dan memilih hewan qurban lengkap dengan informasi harga dan spesifikasi.
 
-- Mempermudah proses pembelian hewan qurban tanpa harus datang langsung ke lokasi
-- Menyediakan berbagai jenis hewan qurban dengan informasi lengkap
-- Memberikan kemudahan dalam pemesanan, pembayaran, dan pelacakan status pesanan
-- Menyediakan dokumentasi pemotongan hewan dan sertifikat qurban digital
+🛒 Pemesanan online secara cepat dan praktis.
+
+💳 Dukungan metode pembayaran online dan unggah bukti transfer.
+
+📦 Pelacakan status pesanan secara real-time.
+
+🧾 Sertifikat qurban digital & dokumentasi pemotongan hewan.
+
+## 🧭 Petunjuk Penggunaan
+
+👤 Untuk Pengguna (User)
+
+-  Buka aplikasi.
+
+-  Klik "Daftar Sekarang" untuk membuat akun baru.
+
+-  Isi data seperti nama lengkap, email, dan informasi lainnya.
+
+-  Login menggunakan akun yang telah dibuat.
+
+-  Pilih hewan qurban yang ingin dibeli dari daftar yang tersedia.
+
+-  Klik tombol "Pesan Sekarang" untuk melakukan pemesanan.
+
+-  Tekan tombol "Lanjut ke Pembayaran".
+
+-  Pilih gambar untuk mengunggah bukti transfer pembayaran.
+
+-  Klik Unggah untuk menyelesaikan proses pembelian.
+
+🛠️ Untuk Admin
+
+-  Login sebagai Admin melalui panel yang tersedia.
+
+-  Periksa dan konfirmasi bukti pembayaran yang diunggah oleh pengguna.
+
+-  Setelah pembayaran dikonfirmasi, status pesanan akan diperbarui secara otomatis.
+
+-  Proses dan siapkan hewan qurban sesuai pesanan pengguna.
+
 
 ## ⚙️ Teknologi yang Digunakan
 
-- **Flutter** – Untuk pengembangan aplikasi mobile multiplatform
-- **Supabase** – Sebagai database dan layanan autentikasi
-- **Figma** – Untuk desain antarmuka pengguna
+| Teknologi    | Keterangan                                                     |
+| ------------ | -------------------------------------------------------------- |
+| **Flutter**  | Framework UI untuk pengembangan aplikasi mobile multiplatform. |
+| **Supabase** | Backend service untuk autentikasi dan penyimpanan data.        |
+| **Figma**    | Alat desain UI/UX aplikasi.                                    |
+
 
 ## 👥 Anggota Kelompok
 
@@ -26,10 +65,11 @@ Aplikasi QurbanQu dirancang untuk:
 | Gusnaldi Luthfi     | 1122140107 |
 
 ## 📱 Platform
+Android
 
-- Android
+## 🎯 Tujuan Utama
+Menyediakan platform digital yang aman dan efisien untuk pembelian hewan qurban.
 
-## 🚀 Tujuan Utama
+Mendorong transformasi digital dalam pelaksanaan ibadah qurban.
 
-- Menyediakan platform digital untuk pelaksanaan ibadah qurban
-- Membantu masyarakat dalam menyalurkan qurban dengan lebih mudah, aman, dan modern
+Mempermudah masyarakat dalam berqurban tanpa harus keluar rumah.
