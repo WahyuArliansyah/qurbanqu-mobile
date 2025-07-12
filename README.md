@@ -49,11 +49,13 @@ QurbanQu hadir sebagai solusi digital untuk pelaksanaan ibadah qurban dengan ber
 
 ## ⚙️ Teknologi yang Digunakan
 
-| Teknologi    | Keterangan                                                     |
-| ------------ | -------------------------------------------------------------- |
-| **Flutter**  | Framework UI untuk pengembangan aplikasi mobile multiplatform. |
-| **Supabase** | Backend service untuk autentikasi dan penyimpanan data.        |
-| **Figma**    | Alat desain UI/UX aplikasi.                                    |
+| Teknologi    | Keterangan                                                                               |
+| ------------ | ---------------------------------------------------------------------------------------- |
+| **Flutter**  | Framework UI untuk pengembangan aplikasi mobile multiplatform.                           |
+| **Firebase** | Layanan backend untuk penyimpanan file (bukti transfer), notifikasi, dan fitur tambahan. |
+| **Supabase** | Backend service untuk autentikasi dan database utama aplikasi.                           |
+| **Figma**    | Alat desain UI/UX aplikasi.                                                              |
+
 
 
 ## 👥 Anggota Kelompok
